@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6281370040608','0']
+global.owner = ['6281370040608','6283111152208']
 global.packname = '*Senpaii*'
 global.author = 'Exram'
 global.sessionName = 'data'
